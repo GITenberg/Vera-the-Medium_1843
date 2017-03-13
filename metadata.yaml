@@ -1,5 +1,8 @@
 _repo: Vera-the-Medium_1843
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Davis, Richard Harding
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/181
     wikipedia: http://en.wikipedia.org/wiki/Richard_Harding_Davis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1843#Vera-the-Medium
 gutenberg_issued: '1999-08-01'
 gutenberg_type: Text
 identifiers:
